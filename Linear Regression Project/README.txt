@@ -1,12 +1,7 @@
-I worked with Ecommerce Customers data to create a linear regression model 
+I worked with Ecommerce Customers data to create a linear model plot. 
 
-* Avg. Session Length: Average session of in-store style advice sessions.
-* Time on App: Average time spent on App in minutes
-* Time on Website: Average time spent on Website in minutes
-* Length of Membership: How many years the customer has been a member.
-We'll work with the Ecommerce Customers csv file from the company. It has Customer info, suchas Email, Address, and their color Avatar. Then it also has numerical value columns:
+I than split the data into training and test sets.
 
-* Avg. Session Length: Average session of in-store style advice sessions.
-* Time on App: Average time spent on App in minutes
-* Time on Website: Average time spent on Website in minutes
-* Length of Membership: How many years the customer has been a member.
+I than trained the model, predicted test data and evaluated the model.
+
+This allowed me to determine how the Ecommerce site can focus their time to improve their services. 
